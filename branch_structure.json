@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "atribute-set",
+    "dynamic-slider-set",
+    "email-templates",
+    "main",
+    "origin",
+    "tree-set"
+  ],
+  "parent": {
+    "atribute-set": "main",
+    "dynamic-slider-set": "main",
+    "email-templates": "main",
+    "main": null,
+    "origin": "main",
+    "tree-set": "main"
+  },
+  "order": [
+    "main",
+    "atribute-set",
+    "dynamic-slider-set",
+    "email-templates",
+    "origin",
+    "tree-set"
+  ]
+}
